@@ -1,0 +1,6 @@
+#Write a program to print a table
+
+
+n = int(input("Enter a number for print a table:"))
+for i in range(1,11):
+    print(n,"*",i,"=",n*i)
