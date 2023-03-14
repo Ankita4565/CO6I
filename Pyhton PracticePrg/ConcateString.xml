@@ -1,0 +1,8 @@
+# Write a program to Concatenate Two String.
+
+Str1 = "Hello"
+Str2 = "World"
+print("String 1:",Str1)
+print("String 2:",Str2)
+Str=Str1+Str2
+print("Concatenated String is:",Str)
